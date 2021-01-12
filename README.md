@@ -15,4 +15,4 @@ git
 ----------------------------------------
 
 change the origin url:
-git remote set-url origin git@github.com:username/repo.git
+git remote set-url origin https://name:password@github.com/repo.git
